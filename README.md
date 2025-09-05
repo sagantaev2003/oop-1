@@ -39,7 +39,7 @@
 Линейный однонаправленный список (его еще называют односвязным списком) – это простейшая динамическая структура данных.
 Ее схема представлена на рис. 1.
 
-<img width="518" height="137" alt="image" src="https://github.com/user-attachments/assets/51325cc4-e121-404c-ae01-ae780c8d27e8" />
+<img width="518" height="97" alt="image" src="https://github.com/user-attachments/assets/30b13ad7-d289-4cbc-970b-4db29fc770af" />
 
 Существует два основных способа построения односвязного списка.
 
